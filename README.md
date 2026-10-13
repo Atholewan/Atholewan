@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi, I'm Athol Ewan Shamu 👋
+BEE 1st Year |Invertis University, Bareilly
+
+- 🌱 Learning: HTML, CSS, JavaScript, Java
+- 📫 Reach me: atholewanshamu@gmail.com
+- 🛠️ Tools: VS Code, Git, GitHub
 
 <!--
 **Atholewan/Atholewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
